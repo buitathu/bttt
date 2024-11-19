@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Cá Nhân</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 0; 
+            padding: 0; 
+            background-color: #99FFFF; /* Màu nền */
+        }
+        header, section { padding: 20px; }
+        h1, h2, h3 { color: #333; }
+        nav { background-color: #333; color: #fff; text-align: center; padding: 10px; }
+        nav a { color: #fff; margin: 0 10px; text-decoration: none; }
+        footer { background-color: #333; color: #fff; text-align: center; padding: 10px; }
+        .container { max-width: 1000px; margin: auto; }
+        .profile-pic { width: 150px; border-radius: 50%; }
+        .project { margin: 15px 0; padding: 15px; border: 1px solid #ccc; }
+    </style>
+</head>
+<body>
+<header>
+    <nav>
+        <a href="#home">Trang Chủ</a>
+        <a href="#about">Giới Thiệu</a>
+        <a href="#portfolio">Dự Án</a>
+        <a href="#blog">Blog</a>
+        <a href="#resume">Hồ Sơ</a>
+        <a href="#contact">Liên Hệ</a>
+        <a href="#insights">Góc Nhìn</a>
+    </nav>
+</header>
+<section id="home" class="container">
+    <h1>Chào Mừng Đến Với Trang Cá Nhân Của Tôi</h1>
+    <img src="https://phongvu.vn/cong-nghe/wp-content/uploads/sites/2/2018/07/hinh-nen-full-hd-cho-laptop-7.jpg" alt="Ảnh Đại Diện" class="profile-pic">
+    </br>
+    <span style='color:#FF0000;'>T</span><span style='color:#FF0700;'>ô</span><span style='color:#FF0E00;'>i</span> <span style='color:#FF1C00;'>t</span><span style='color:#FF2300;'>ê</span><span style='color:#FF2A00;'>n</span> <span style='color:#FF3800;'>l</span><span style='color:#FF4000;'>à</span> <span style='color:#FF4E00;'>B</span><span style='color:#FF5500;'>ù</span><span style='color:#FF5C00;'>i</span> <span style='color:#FF6A00;'>T</span><span style='color:#FF7100;'>á</span> <span style='color:#FF8000;'>T</span><span style='color:#FF8700;'>h</span><span style='color:#FF8E00;'>ư</span><span style='color:#FF9500;'>,</span> <span style='color:#FFA300;'>h</span><span style='color:#FFAA00;'>ọ</span><span style='color:#FFB100;'>c</span> <span style='color:#FFC000;'>s</span><span style='color:#FFC700;'>i</span><span style='color:#FFCE00;'>n</span><span style='color:#FFD500;'>h</span> <span style='color:#FFE300;'>l</span><span style='color:#FFEA00;'>ớ</span><span style='color:#FFF100;'>p</span> <span style='color:#FDFF00;'>1</span><span style='color:#F6FF00;'>2</span> <span style='color:#E8FF00;'>T</span><span style='color:#E1FF00;'>i</span><span style='color:#DAFF00;'>n</span><span style='color:#D3FF00;'>,</span> <span style='color:#C4FF00;'>t</span><span style='color:#BDFF00;'>r</span><span style='color:#B6FF00;'>ư</span><span style='color:#AFFF00;'>ờ</span><span style='color:#A8FF00;'>n</span><span style='color:#A1FF00;'>g</span> <span style='color:#93FF00;'>T</span><span style='color:#8BFF00;'>H</span><span style='color:#84FF00;'>P</span><span style='color:#7DFF00;'>T</span> <span style='color:#6FFF00;'>c</span><span style='color:#68FF00;'>h</span><span style='color:#61FF00;'>u</span><span style='color:#5AFF00;'>y</span><span style='color:#53FF00;'>ê</span><span style='color:#4BFF00;'>n</span> <span style='color:#3DFF00;'>L</span><span style='color:#36FF00;'>ê</span> <span style='color:#28FF00;'>K</span><span style='color:#21FF00;'>h</span><span style='color:#1AFF00;'>i</span><span style='color:#12FF00;'>ế</span><span style='color:#0BFF00;'>t</span><span style='color:#04FF00;'>,</span> <span style='color:#00FF09;'>Q</span><span style='color:#00FF10;'>u</span><span style='color:#00FF17;'>ả</span><span style='color:#00FF1E;'>n</span><span style='color:#00FF25;'>g</span> <span style='color:#00FF34;'>N</span><span style='color:#00FF3B;'>g</span><span style='color:#00FF42;'>ã</span><span style='color:#00FF49;'>i</span><span style='color:#00FF50;'>.</span> <span style='color:#00FF5E;'>L</span><span style='color:#00FF66;'>à</span> <span style='color:#00FF74;'>m</span><span style='color:#00FF7B;'>ộ</span><span style='color:#00FF82;'>t</span> <span style='color:#00FF90;'>n</span><span style='color:#00FF97;'>g</span><span style='color:#00FF9E;'>ư</span><span style='color:#00FFA6;'>ờ</span><span style='color:#00FFAD;'>i</span> <span style='color:#00FFBB;'>đ</span><span style='color:#00FFC2;'>ầ</span><span style='color:#00FFC9;'>y</span> <span style='color:#00FFD7;'>ư</span><span style='color:#00FFDE;'>ớ</span><span style='color:#00FFE6;'>c</span> <span style='color:#00FFF4;'>m</span><span style='color:#00FFFB;'>ơ</span> <span style='color:#00F4FF;'>v</span><span style='color:#00EDFF;'>à</span> <span style='color:#00DEFF;'>h</span><span style='color:#00D7FF;'>o</span><span style='color:#00D0FF;'>à</span><span style='color:#00C9FF;'>i</span> <span style='color:#00BBFF;'>b</span><span style='color:#00B4FF;'>ã</span><span style='color:#00ADFF;'>o</span> <span style='color:#009EFF;'>t</span><span style='color:#0097FF;'>h</span><span style='color:#0090FF;'>ì</span> <span style='color:#0082FF;'>t</span><span style='color:#007BFF;'>ô</span><span style='color:#0074FF;'>i</span> <span style='color:#0065FF;'>l</span><span style='color:#005EFF;'>u</span><span style='color:#0057FF;'>ô</span><span style='color:#0050FF;'>n</span> <span style='color:#0042FF;'>p</span><span style='color:#003BFF;'>h</span><span style='color:#0034FF;'>ấ</span><span style='color:#002DFF;'>n</span> <span style='color:#001EFF;'>đ</span><span style='color:#0017FF;'>ấ</span><span style='color:#0010FF;'>u</span> <span style='color:#0002FF;'>h</span><span style='color:#0400FF;'>ế</span><span style='color:#0B00FF;'>t</span> <span style='color:#1A00FF;'>m</span><span style='color:#2100FF;'>ì</span><span style='color:#2800FF;'>n</span><span style='color:#2F00FF;'>h</span> <span style='color:#3D00FF;'>đ</span><span style='color:#4400FF;'>ể</span> <span style='color:#5300FF;'>x</span><span style='color:#5A00FF;'>â</span><span style='color:#6100FF;'>y</span> <span style='color:#6F00FF;'>d</span><span style='color:#7600FF;'>ự</span><span style='color:#7D00FF;'>n</span><span style='color:#8400FF;'>g</span> <span style='color:#9300FF;'>m</span><span style='color:#9A00FF;'>ộ</span><span style='color:#A100FF;'>t</span> <span style='color:#AF00FF;'>t</span><span style='color:#B600FF;'>ư</span><span style='color:#BD00FF;'>ơ</span><span style='color:#C400FF;'>n</span><span style='color:#CC00FF;'>g</span> <span style='color:#DA00FF;'>l</span><span style='color:#E100FF;'>a</span><span style='color:#E800FF;'>i</span> <span style='color:#F600FF;'>đ</span><span style='color:#FD00FF;'>ầ</span><span style='color:#FF00F9;'>y</span> <span style='color:#FF00EA;'>t</span><span style='color:#FF00E3;'>ư</span><span style='color:#FF00DC;'>ơ</span><span style='color:#FF00D5;'>i</span> <span style='color:#FF00C7;'>s</span><span style='color:#FF00C0;'>á</span><span style='color:#FF00B9;'>n</span><span style='color:#FF00B1;'>g</span> <span style='color:#FF00A3;'>v</span><span style='color:#FF009C;'>à</span> <span style='color:#FF008E;'>r</span><span style='color:#FF0087;'>ộ</span><span style='color:#FF0080;'>n</span><span style='color:#FF0078;'>g</span> <span style='color:#FF006A;'>m</span><span style='color:#FF0063;'>ở</span> <span style='color:#FF0055;'>c</span><span style='color:#FF004E;'>h</span><span style='color:#FF0047;'>o</span> <span style='color:#FF0038;'>b</span><span style='color:#FF0031;'>ả</span><span style='color:#FF002A;'>n</span> <span style='color:#FF001C;'>t</span><span style='color:#FF0015;'>h</span><span style='color:#FF000E;'>â</span><span style='color:#FF0007;'>n</span>
+    <h2>Phương Châm Của Tôi</h2>
+    <p>"Thông điệp hoặc giá trị cốt lõi mà bạn muốn truyền tải."</p>
+</section>
+<section id="about" class="container">
+    <h2>Giới Thiệu</h2>
+    <p>Đây là đôi chút về quá trình và hành trình của tôi trong lĩnh vực [Lĩnh Vực Của Bạn]. Tôi bắt đầu hành trình trong [Ngành hoặc Sở Thích Của Bạn] vì [Câu Chuyện Của Bạn].</p>
+    <h3>Kinh Nghiệm và Kỹ Năng</h3>
+    <ul>
+        <li>Kỹ Năng Chính 1</li>
+        <li>Kỹ Năng Chính 2</li>
+        <li>Kỹ Năng Mềm</li>
+    </ul>
+    <h3>Mục Tiêu và Giá Trị</h3>
+    <p>Tôi tập trung vào [Mục Tiêu Nghề Nghiệp hoặc Nguyên Tắc Của Bạn].</p>
+</section>
+<section id="portfolio" class="container">
+    <h2>Dự Án</h2>
+    <div class="project">
+        <h3>Tên Dự Án</h3>
+        <p>Mô tả ngắn về dự án.</p>
+        <p><strong>Vai Trò:</strong> Vai Trò Của Bạn</p>
+        <p><strong>Kỹ Năng Sử Dụng:</strong> Kỹ Năng 1, Kỹ Năng 2</p>
+    </div>
+</section>
+
+
+<section id="blog" class="container">
+    <h2>Blog / Bài Viết</h2>
+    <p>Khám phá những suy nghĩ và góc nhìn của tôi về [Ngành hoặc Đam Mê Của Bạn].</p>
+    <ul>
+        <li><a href="article1.html">Tiêu Đề Bài Viết 1</a></li>
+        <li><a href="article2.html">Tiêu Đề Bài Viết 2</a></li>
+    </ul>
+</section>
+
+
+<section id="resume" class="container">
+    <h2>Hồ Sơ Nghề Nghiệp</h2>
+    <p><a href="your-cv.pdf" download>Tải Xuống CV Của Tôi</a></p>
+    <p>Kinh nghiệm chi tiết và thành tựu trong nhiều vai trò khác nhau, cùng nhận xét từ đồng nghiệp.</p>
+</section>
+
+<section id="contact" class="container">
+    <h2>Liên Hệ</h2>
+    <form action="submit_form" method="post">
+        <label for="name">Tên:</label><br>
+        <input type="text" id="name" name="name"><br>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email"><br>
+        <label for="message">Tin Nhắn:</label><br>
+        <textarea id="message" name="message"></textarea><br>
+        <button type="submit">Gửi Tin Nhắn</button>
+    </form>
+    <p>Kết nối với tôi trên <a href="https://linkedin.com">LinkedIn</a>, <a href="https://github.com">GitHub</a>, <a href="https://twitter.com">Twitter</a>.</p>
+</section>
+
+<!-- Phần Góc Nhìn -->
+<section id="insights" class="container">
+    <h2>Góc Nhìn</h2>
+    <p>Tìm hiểu thêm về những góc nhìn và kinh nghiệm nghề nghiệp của tôi tại đây.</p>
+    <ul>
+        <li><a href="file:///C:/Users/Admin/Downloads/bttt.html">Tiêu Đề Góc Nhìn 1</a></li>
+        <li><a href="insight2.html">Tiêu Đề Góc Nhìn 2</a></li>
+    </ul>
+</section>
+
+
+<footer>
+    <p>&copy; [Bùi Tá Thư]. Đã đăng ký bản quyền.</p>
+</footer>
+
+</body>
+</html>
